@@ -3,7 +3,7 @@ A simple and minimalist ToDo List coded entirely in HTML, CSS, and JS
 
 
 # Demo
-![ToDo List Demo](demo/demo.gif)
+![ToDo List Demo](demo/todo.gif)
 
 
 
